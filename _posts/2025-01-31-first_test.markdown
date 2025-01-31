@@ -21,6 +21,8 @@ Hi all  eterterterter
 
 ## Revterterterterteriew
 
+jlkdjflaksj;flkasdlfk;aslkdfj;laskdjl;sdksd
+
 去年 5 月，大二的我拿到阿里的交互实习生 Offer，成为阿里的实习员工，刚好过去一个年头。
 
 8 月，感谢 [@拔赤](http://weibo.com/jayli) 的提携，同意了我转岗到航旅前端团队的申请，分在了老大亲自带队的 **航旅事业群-无线业务部-无线技术-前端团队-前端三组**，从此开始了一名**前端程序猿**的职业生涯。
