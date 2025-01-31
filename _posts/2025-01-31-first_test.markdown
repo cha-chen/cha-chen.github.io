@@ -16,6 +16,8 @@ tags:
 Hi all  eterterterter
 这里是鬼栈的离职信。
 
+$\sqrt{3x-1}+(1+x)^2$
+
 ![img](/img/in-post/post-c-u-ali-team.png)
 
 
