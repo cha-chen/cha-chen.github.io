@@ -5,6 +5,7 @@ subtitle:   "ertertwertwertwertwert。"
 date:       2025-01-31
 author:     "Hyyyyux"
 header-img: "img/post-bg-see-u-ali.jpg"
+mathjax: true
 tags:
   - ertertea
   - 阿rtertertretertert里
@@ -39,6 +40,8 @@ jlkdjflaksj;flkasdlfk;aslkdfj;laskdjl;sdksd
 
 ---
 
+$\sqrt{3x-1}+(1+x)^2$
+
 在航旅的 270 天里，我还经历了不少**大事件**：
 
 * 一次 阿里 IPO （千载难逢的大事，可惜我没有股票，战利品是一件纪念 T 恤）
@@ -48,7 +51,11 @@ jlkdjflaksj;flkasdlfk;aslkdfj;laskdjl;sdksd
 * 一次 Outing （每年才一次的公派娱乐，滑雪＋温泉记忆深刻）
 * 一次 Team Building（晴舞姐的 lastday ，难得的团建）
 * 一次 中秋节 （战利品是包装特别用心的“马云牌”月饼）
+$\sqrt{3x-1}+(1+x)^2$
 
+v$\sqrt{3x-1}+(1+x)^2$$\sqrt{3x-1}+(1+x)^2$
+
+$\sqrt{3x-1}+(1+x)^2$
 
 真的运气非常好，不但该经历的都经历了，连 IPO 这么难得的也撞上了。
 
@@ -78,6 +85,8 @@ jlkdjflaksj;flkasdlfk;aslkdfj;laskdjl;sdksd
 * @已过：虽然已经转岗了看不到不过必须补上，一度觉得很像大反派！印象最深的就是刚进来 git 写错了看我 log 帮我回滚 OTZ，当时觉得特别凶
 * @清锁：实习生小伙伴！你居然先我离职了喂。不过我知道你都签三方啦
 
+$\sqrt{3x-1}+(1+x)^2$$\sqrt{3x-1}+(1+x)^2$
+
 其他组的我就捡比较熟悉的说啦：
 
 * @银翘：校友师姐！特别萌，负责象声汇特别尽心尽力
@@ -92,6 +101,8 @@ jlkdjflaksj;flkasdlfk;aslkdfj;laskdjl;sdksd
 
 ## Future
 
+$$\sqrt{3x-1}+(1+x)^2$$
+$\sqrt{3x-1}+(1+x)^2$$\sqrt{3x-1}+(1+x)^2$
 距离毕业还有一年多的光景，前路未卜，还是想到处逛逛，多看看再做选择。
 
 在陆续看了几家公司后，我决定前往**微信电影票**开始我的下一段旅程。特别巧的是，带队的饼饼居然也曾是我们团队的“老人”，花名 @痴灵 
